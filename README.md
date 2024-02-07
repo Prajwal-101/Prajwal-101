@@ -1,3 +1,5 @@
+![logo](https://github.com/Prajwal-101/Prajwal-101/blob/main/IMG20240126100338.jpg)
+
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
 <h3 align="center">Driven by curiosity, fueled by challenges, and powered by code</h3>
 
