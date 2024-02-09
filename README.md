@@ -25,8 +25,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- Dynamically inserted languages and tools section -->
-<p align="left">Languages and Tools: Dynamically generated using GitHub Actions</p>
+<!-- dynamically generated languages and tools section -->
+<p align="left">Languages and Tools: Dynamically generated using GitHub Actions and `github-readme-stats`</p>
+
 
 <!-- Dynamically inserted GitHub stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical)
