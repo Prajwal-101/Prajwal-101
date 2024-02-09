@@ -31,17 +31,11 @@
 <!-- Dynamically inserted top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact)
 
-<!-- Placeholder for GitHub stats and streak -->
-<div>
-  <!-- Dynamically inserted GitHub stats -->
-  <div style="float: right;">
-    <p align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical" alt="GitHub Stats">
-    </p>
-  </div>
-</div>
+
+<!-- Dynamically inserted GitHub stats -->
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 <!-- Dynamically inserted GitHub streak stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-101" alt="GitHub Streak">
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-101)
