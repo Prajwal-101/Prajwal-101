@@ -27,12 +27,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<!-- Dynamically inserted top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact)
+<!-- Dynamically inserted GitHub stats -->
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 
-<h3 align="left"><!-- Dynamically inserted GitHub stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical)
 
 <!-- Dynamically inserted GitHub streak stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-101)
