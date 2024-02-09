@@ -30,9 +30,7 @@
 
 <div style="display: flex;">
   <!-- Dynamically inserted top languages -->
-  <div style="flex: 1;">
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact)
-  </div>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact)
 
   <!-- Dynamically inserted GitHub stats -->
   <div style="flex: 1;">
@@ -41,6 +39,7 @@
     </p>
   </div>
 </div>
+
 
 
 <!-- Dynamically inserted GitHub streak stats -->
