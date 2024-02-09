@@ -25,14 +25,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- dynamically generated languages and tools section -->
-<p align="left">Languages and Tools: Dynamically generated using GitHub Actions and `github-readme-stats`</p>
+<!-- Dynamically inserted languages and tools section -->
+<p align="left">Languages and Tools: Dynamically generated using GitHub Actions</p>
 
-<!-- dynamically generated GitHub stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&locale=en" alt="Prajwal-101" /></p>
+<!-- Dynamically inserted GitHub stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical)
 
-<!-- dynamically generated top languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact" alt="Prajwal-101" /></p>
-
-<!-- dynamically generated GitHub streak stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-101&" alt="Prajwal-101" /></p>
+<!-- Dynamically inserted GitHub streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-101)
