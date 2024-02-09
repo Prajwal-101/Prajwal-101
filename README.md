@@ -33,7 +33,7 @@
 
 
 <!-- Dynamically inserted GitHub stats -->
-<p align="right">
+
   <img src="https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
