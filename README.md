@@ -31,7 +31,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact)
 
 
-<!-- Dynamically inserted GitHub stats -->
+<h3 align="left"><!-- Dynamically inserted GitHub stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical)
 
 <!-- Dynamically inserted GitHub streak stats -->
