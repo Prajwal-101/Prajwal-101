@@ -18,7 +18,7 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install
+        run: npm install github-readme-stats
 
       - name: Update README
-        run: node update-readme.js
+        run: npx github-readme-stats --fetch --stats=repositories,languages
