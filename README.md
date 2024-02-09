@@ -28,19 +28,14 @@
 <!-- dynamically generated languages and tools section -->
 
 
-<div style="display: flex;">
-  <!-- Dynamically inserted top languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact)
-
-  <!-- Dynamically inserted GitHub stats -->
-  <div style="flex: 1;">
-    <p align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical" alt="GitHub Stats">
-    </p>
-  </div>
-</div>
+<!-- Dynamically inserted top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact)
 
 
+<!-- Dynamically inserted GitHub stats -->
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 <!-- Dynamically inserted GitHub streak stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-101)
