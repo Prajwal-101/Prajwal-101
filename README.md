@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/Prajwal-101/Prajwal-101/blob/main/ezgif-8-855a0ea4f1.gif" alt="ezgif-8-855a0ea4f1.gif">
 </p>
@@ -13,7 +12,7 @@
 - 📫 How to reach me **prajwalsuryavanshi0@gmail.com**
 - 📱 Mobile no. **+91-7972863785**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ES3LDre64r2hSKr660h8mK6ycmYiizOK/view?usp=sharing](https://drive.google.com/file/d/1ES3LDre64r2hSKr660h8mK6ycmYiizOK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ES3LDre64r2hSKr660h8mK6ycmYiizOK/view?usp=sharing)
 
 - 😆 Fun fact **Sushi is Trash**
 
@@ -26,7 +25,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <img src="https://img.shields.io/github/languages/top/prajwal-101/prajwal-101?style=flat-square" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/count/prajwal-101/prajwal-101?style=flat-square" alt="Languages Count">
+  <img src="https://img.shields.io/github/languages/code-size/prajwal-101/prajwal-101?style=flat-square" alt="Code Size">
+  <img src="https://img.shields.io/github/repo-size/prajwal-101/prajwal-101?style=flat-square" alt="Repo Size">
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-101&show_icons=true&locale=en&layout=compact" alt="Prajwal-101" /></p>
 
