@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/Prajwal-101/Prajwal-101/blob/main/ezgif-8-855a0ea4f1.gif" alt="ezgif-8-855a0ea4f1.gif">
 </p>
@@ -25,17 +26,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- dynamically generated languages and tools section -->
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-101&show_icons=true&locale=en&layout=compact" alt="Prajwal-101" /></p>
 
-<!-- Dynamically inserted top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&locale=en" alt="Prajwal-101" /></p>
 
-
-<!-- Dynamically inserted GitHub stats -->
-<p align="right">
-  <img src="https://camo.githubusercontent.com/e1d25726917545bd5d4c8238e03a653be0b93c6435c35d8e5799c7f33697930d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7072616a77616c2d3130312673686f775f69636f6e733d74727565267468656d653d7261646963616c">
-</p>
-
-<!-- Dynamically inserted GitHub streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-101)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-101&" alt="Prajwal-101" /></p>
