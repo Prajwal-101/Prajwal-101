@@ -12,7 +12,7 @@
 - 📫 How to reach me **prajwalsuryavanshi0@gmail.com**
 - 📱 Mobile no. **+91-7972863785**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ES3LDre64r2hSKr660h8mK6ycmYiizOK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ES3LDre64r2hSKr660h8mK6ycmYiizOK/view?usp=sharing](https://drive.google.com/file/d/1ES3LDre64r2hSKr660h8mK6ycmYiizOK/view?usp=sharing)
 
 - 😆 Fun fact **Sushi is Trash**
 
@@ -25,15 +25,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://img.shields.io/github/languages/top/prajwal-101/prajwal-101?style=flat-square" alt="Top Language">
-  <img src="https://img.shields.io/github/languages/count/prajwal-101/prajwal-101?style=flat-square" alt="Languages Count">
-  <img src="https://img.shields.io/github/languages/code-size/prajwal-101/prajwal-101?style=flat-square" alt="Code Size">
-  <img src="https://img.shields.io/github/repo-size/prajwal-101/prajwal-101?style=flat-square" alt="Repo Size">
-</p>
+<!-- dynamically generated languages and tools section -->
+<p align="left">Languages and Tools: Dynamically generated using GitHub Actions and `github-readme-stats`</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-101&show_icons=true&locale=en&layout=compact" alt="Prajwal-101" /></p>
-
+<!-- dynamically generated GitHub stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal-101&show_icons=true&locale=en" alt="Prajwal-101" /></p>
 
+<!-- dynamically generated top languages -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-101&layout=compact" alt="Prajwal-101" /></p>
+
+<!-- dynamically generated GitHub streak stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-101&" alt="Prajwal-101" /></p>
