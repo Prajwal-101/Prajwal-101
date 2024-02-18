@@ -13,7 +13,7 @@
 - 📫 How to reach me **prajwalsuryavanshi0@gmail.com**
 - 📱 Mobile no. **+91-7972863785**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ES3LDre64r2hSKr660h8mK6ycmYiizOK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PNmki2Qbm7L5BVbHfbOVuAh9Y0e9JSU8/view?usp=sharing)
 
 - 😆 Fun fact **Sushi is Trash**
 
