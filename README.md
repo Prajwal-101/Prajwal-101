@@ -15,7 +15,8 @@
 
 - 📄 Know about my Skills & Experiences [Resume](https://drive.google.com/file/d/1puyrYdtphZwj9b7fL-VdU8KflBQPGSpA/view?usp=sharing)
 
-- 😆 Fun fact **Sushi is Trash**
+<!-- 😆 Fun fact: Sushi is Trash -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
