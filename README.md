@@ -13,7 +13,7 @@
 - 📫 How to reach me **prajwalsuryavanshi0@gmail.com**
 - 📱 Mobile no. **+91-7972863785**
 
-- 📄 Know about my Skills & Experiences [Resume](https://drive.google.com/file/d/1puyrYdtphZwj9b7fL-VdU8KflBQPGSpA/view?usp=sharing)
+- 📄 Know about my Skills & Experiences [Portfolio](https://prajwal-101.github.io/Portfolio/)
 
 <!-- 😆 Fun fact: Sushi is Trash -->
 
